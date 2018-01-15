@@ -1,0 +1,148 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="kirillzech.github.io" resolutions="1x" timestamp="1516003127085">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="derevenka.css" crc="3900353537" ref="derevenka"/>
+    <file name="plans.css" crc="420735256" ref="plans"/>
+    <file name="day-of-moscow.css" crc="367838448" ref="day-of-moscow"/>
+    <file name="illustrations.css" crc="3947068949" ref="illustrations"/>
+    <file name="building.css" crc="432796257" ref="building"/>
+    <file name="index.css" crc="167720442" ref="index"/>
+    <file name="geostroyservis.css" crc="4198834943" ref="geostroyservis"/>
+    <file name="cube-concept.css" crc="4153112982" ref="cube-concept"/>
+    <file name="yarkiy-gorod.css" crc="201712518" ref="yarkiy-gorod"/>
+    <file name="robostart-logo.css" crc="317212778" ref="robostart-logo"/>
+  </folder>
+  <folder name="assets">
+    <file name="композиция-2_3_2.mp4" crc="3822366272" seo="true" mt="1508759727000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="phone>index:phone>геострой:phone>деревенька:phone>яркий-город:phone>дни-москвы:phone>робостарт:phone>иллюстрации:phone>сутки:phone>высотка:index:geostroyservis:derevenka:yarkiy-gorod:day-of-moscow:robostart-logo:illustrations:cube-concept:building:plans"/>
+    <file name="museutils.js" crc="334180058" ref="phone>index:phone>геострой:phone>деревенька:phone>яркий-город:phone>дни-москвы:phone>робостарт:phone>иллюстрации:phone>сутки:phone>высотка:index:geostroyservis:derevenka:yarkiy-gorod:day-of-moscow:robostart-logo:illustrations:cube-concept:building:plans"/>
+    <file name="jquery.watch.js" crc="293013060" ref="phone>index:phone>геострой:phone>деревенька:phone>яркий-город:phone>дни-москвы:phone>робостарт:phone>иллюстрации:phone>сутки:phone>высотка:index:geostroyservis:derevenka:yarkiy-gorod:day-of-moscow:robostart-logo:illustrations:cube-concept:building:plans"/>
+    <file name="museredirect.js" crc="390470276" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4188011829" ref="phone>index"/>
+    <file name="композиция-3_1.gif" crc="3846029062" seo="true" ref="phone>index:index"/>
+    <file name="u451-4.png" crc="4250291449" ref="phone>index"/>
+    <file name="u452-14.png" crc="4196838808" ref="phone>index"/>
+    <file name="icon-facebook.svg" crc="3949513610" ref="phone>index:index"/>
+    <file name="icon-facebook_poster_.png" crc="4131204480" ref="phone>index"/>
+    <file name="vk_com1600.png" crc="468460938" seo="true" ref="phone>index:index"/>
+    <file name="112.png" crc="365736865" seo="true" ref="phone>index:index:geostroyservis:derevenka:yarkiy-gorod:day-of-moscow:robostart-logo:illustrations:cube-concept:building"/>
+    <file name="anatomia-mockup1-crop-u467.png" crc="410507627" ref="phone>index"/>
+    <file name="tnm-crop-u490.png" crc="187005485" ref="phone>index"/>
+    <file name="tnm-crop-u492.png" crc="75512524" ref="phone>index"/>
+    <file name="tnm-crop-u494.png" crc="3837191322" ref="phone>index"/>
+    <file name="u462-4.png" crc="4028179104" ref="phone>index"/>
+    <file name="u461-10.png" crc="70290826" ref="phone>index"/>
+    <file name="macbookpro15inch_mockup-crop-u469.jpg" crc="276071354" ref="phone>index"/>
+    <file name="hanging wall sign mockup-crop-u471.jpg" crc="4043550274" ref="phone>index"/>
+    <file name="bus stop billboard mockup 2337x264.jpg" crc="3987918142" seo="true" ref="phone>index"/>
+    <file name="brand339x238.jpg" crc="327005419" seo="true" ref="phone>index"/>
+    <file name="4341x253.jpg" crc="4232627000" seo="true" ref="phone>index"/>
+    <file name="nig358x237.jpg" crc="4100594051" seo="true" ref="phone>index"/>
+    <file name="11371x222.jpg" crc="237774840" seo="true" ref="phone>index"/>
+    <file name="551-crop-u485.jpg" crc="3827967830" ref="phone>index"/>
+    <file name="551-crop-u487.jpg" crc="3998700270" ref="phone>index"/>
+    <file name="lrzrqg0j6f8.jpg" crc="3934499974" seo="true" ref="phone>index:index"/>
+    <file name="u95-4.png" crc="65957097" ref="index"/>
+    <file name="anatomia-mockup1-crop-u211.png" crc="347942822" ref="index"/>
+    <file name="tnm.png" crc="3937338097" seo="true" ref="index"/>
+    <file name="tnm-crop-u290.png" crc="343976012" ref="index"/>
+    <file name="tnm-crop-u299.png" crc="4231077902" ref="index"/>
+    <file name="u103-15.png" crc="4244899877" ref="index"/>
+    <file name="u152-4.png" crc="4180946439" ref="index"/>
+    <file name="u150-9.png" crc="4187829998" ref="index"/>
+    <file name="macbookpro15inch_mockup-crop-u217.jpg" crc="3908064223" ref="index"/>
+    <file name="hanging wall sign mockup-crop-u896.jpg" crc="526732867" ref="index"/>
+    <file name="bus stop billboard mockup 2.jpg" crc="29271297" seo="true" ref="index"/>
+    <file name="brand.jpg" crc="59199426" seo="true" ref="index"/>
+    <file name="4.jpg" crc="7363108" seo="true" ref="index"/>
+    <file name="nig.jpg" crc="3872389673" seo="true" ref="index"/>
+    <file name="551-crop-u272.jpg" crc="426536835" ref="index"/>
+    <file name="551-crop-u278.jpg" crc="4170525848" ref="index"/>
+    <file name="11.jpg" crc="4193639401" seo="true" ref="index"/>
+    <file name="geostroyservis-favicon.ico" crc="4188011829" ref="geostroyservis"/>
+    <file name="u726-8.png" crc="479248265" ref="geostroyservis"/>
+    <file name="macbookpro15inch_mockup-crop-u747.jpg" crc="355684921" ref="geostroyservis"/>
+    <file name="вставленное изображение 1920x1080.jpg" crc="4276051356" seo="true" ref="geostroyservis"/>
+    <file name="вставленное изображение 1920x1080-crop-u771.jpg" crc="4100694767" ref="geostroyservis"/>
+    <file name="вставленное изображение 1920x1080-crop-u776.jpg" crc="4265372260" ref="geostroyservis"/>
+    <file name="вставленное изображение 1920x1080-crop-u781.jpg" crc="353390233" ref="geostroyservis"/>
+    <file name="u791-grad.png" crc="4162909989" ref="geostroyservis"/>
+    <file name="derevenka-favicon.ico" crc="4188011829" ref="derevenka"/>
+    <file name="u845-8.png" crc="3764262378" ref="derevenka"/>
+    <file name="123-crop-u855.jpg" crc="4004375213" ref="derevenka"/>
+    <file name="mock1.jpg" crc="394017255" seo="true" ref="derevenka"/>
+    <file name="112.jpg" crc="426385590" seo="true" ref="derevenka"/>
+    <file name="yarkiy-gorod-favicon.ico" crc="4188011829" ref="yarkiy-gorod"/>
+    <file name="u804-8.png" crc="4225796298" ref="yarkiy-gorod"/>
+    <file name="вставленное изображение 1920x1080-crop-u822.jpg" crc="517951166" ref="yarkiy-gorod"/>
+    <file name="вставленное изображение 1920x1080-crop-u827.jpg" crc="4172914875" ref="yarkiy-gorod"/>
+    <file name="све.jpg" crc="3836796443" seo="true" ref="yarkiy-gorod"/>
+    <file name="day-of-moscow-favicon.ico" crc="4188011829" ref="day-of-moscow"/>
+    <file name="u1028-4.png" crc="4182516026" ref="day-of-moscow"/>
+    <file name="2-crop-u1038.jpg" crc="375307235" ref="day-of-moscow"/>
+    <file name="logo.png" crc="409642733" seo="true" ref="day-of-moscow"/>
+    <file name="йц.png" crc="4026305300" seo="true" ref="day-of-moscow"/>
+    <file name="2350x494.jpg" crc="3762473105" seo="true" ref="day-of-moscow"/>
+    <file name="6.jpg" crc="281811752" seo="true" ref="day-of-moscow"/>
+    <file name="robostart-logo-favicon.ico" crc="4188011829" ref="robostart-logo"/>
+    <file name="u989-6.png" crc="3833853603" ref="robostart-logo"/>
+    <file name="4-crop-u999.jpg" crc="480109463" ref="robostart-logo"/>
+    <file name="robo1.jpg" crc="3884001255" seo="true" ref="robostart-logo"/>
+    <file name="illustrations-favicon.ico" crc="4188011829" ref="illustrations"/>
+    <file name="u939-4.png" crc="4289022586" ref="illustrations"/>
+    <file name="bowieanim.gif" crc="4132580208" seo="true" ref="illustrations"/>
+    <file name="света.jpg" crc="42662018" seo="true" ref="illustrations"/>
+    <file name="лицо.jpg" crc="106969910" seo="true" ref="illustrations"/>
+    <file name="113.jpg" crc="3845340820" seo="true" ref="illustrations"/>
+    <file name="nig2.jpg" crc="4015952059" seo="true" ref="illustrations"/>
+    <file name="слон.jpg" crc="368063961" seo="true" ref="illustrations"/>
+    <file name="дип.jpg" crc="321993916" seo="true" ref="illustrations"/>
+    <file name="u699-9.png" crc="338096245" ref="cube-concept"/>
+    <file name="stn666-crop-u672.jpg" crc="415289159" ref="cube-concept"/>
+    <file name="stn666-crop-u701.jpg" crc="3901944820" ref="cube-concept"/>
+    <file name="u883-6.png" crc="283615839" ref="building"/>
+    <file name="551.jpg" crc="498247583" seo="true" ref="building"/>
+    <file name="551-crop-u899.jpg" crc="527220651" ref="building"/>
+    <file name="551-crop-u902.jpg" crc="61325465" ref="building"/>
+    <file name="551-crop-u905.jpg" crc="154018560" ref="building"/>
+    <file name="551-crop-u908.jpg" crc="26763633" ref="building"/>
+    <file name="чертежи3-crop-u911.jpg" crc="107836585" ref="building"/>
+    <file name="чертежи3-crop-u923.jpg" crc="4667664" ref="plans"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="___________.css" crc="4107295331" ref="phone>иллюстрации"/>
+      <file name="_____-_____.css" crc="4107295331" ref="phone>яркий-город"/>
+      <file name="________.css" crc="4107295331" ref="phone>геострой"/>
+      <file name="_____.css" crc="4107295331" ref="phone>сутки"/>
+      <file name="__________.css" crc="4107295331" ref="phone>деревенька"/>
+      <file name="index.css" crc="232343589" ref="phone>index"/>
+      <file name="_________.css" crc="4107295331" ref="phone>робостарт"/>
+      <file name="_______.css" crc="4107295331" ref="phone>высотка"/>
+      <file name="___-______.css" crc="4107295331" ref="phone>дни-москвы"/>
+    </folder>
+    <file name="index.html" crc="4163034443" seo="true" mt="1509398042820" redirect="true"/>
+    <file name="геострой.html" crc="408105698" seo="true" mt="1509398042827" redirect="false"/>
+    <file name="деревенька.html" crc="4140739031" seo="true" mt="1509398027153" redirect="false"/>
+    <file name="яркий-город.html" crc="327667402" seo="true" mt="1509398009686" redirect="false"/>
+    <file name="дни-москвы.html" crc="151787902" seo="true" mt="1509397968231" redirect="false"/>
+    <file name="робостарт.html" crc="34558101" seo="true" mt="1509397952668" redirect="false"/>
+    <file name="иллюстрации.html" crc="4196999456" seo="true" mt="1509397939169" redirect="false"/>
+    <file name="сутки.html" crc="412345935" seo="true" mt="1509397905909" redirect="false"/>
+    <file name="высотка.html" crc="299158305" seo="true" mt="1509397921400" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4085926423" seo="true" mt="1509398042823" redirect="true"/>
+  <file name="geostroyservis.html" crc="332605554" seo="true" mt="1509398042830" redirect="true"/>
+  <file name="derevenka.html" crc="12135481" seo="true" mt="1509398027156" redirect="true"/>
+  <file name="yarkiy-gorod.html" crc="446860348" seo="true" mt="1509398009690" redirect="true"/>
+  <file name="day-of-moscow.html" crc="499748180" seo="true" mt="1509397968237" redirect="true"/>
+  <file name="robostart-logo.html" crc="461329538" seo="true" mt="1509397952673" redirect="true"/>
+  <file name="illustrations.html" crc="331221488" seo="true" mt="1509397939172" redirect="true"/>
+  <file name="cube-concept.html" crc="4275644030" seo="true" mt="1509397905913" redirect="true"/>
+  <file name="building.html" crc="4134744221" seo="true" mt="1509397921404" redirect="true"/>
+  <file name="plans.html" crc="372143911" seo="true" mt="1509397995029" redirect="true"/>
+</manifest>

@@ -1,0 +1,239 @@
+.version.geostroyservis /* version checker */
+{
+	color: #0000FA;
+	background-color: #4522FF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	margin-bottom: -68px;
+	width: 0.01px;
+}
+
+#ppu725
+{
+	width: 0.01px;
+	margin-left: -292px;
+}
+
+#pu725
+{
+	z-index: 16;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u725
+{
+	z-index: 0;
+	width: 1529px;
+	background-color: #000000;
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu726-8
+{
+	width: 0.01px;
+	position: relative;
+	left: 309px;
+	padding-top: 142px;
+	z-index: 2;
+	padding-bottom: 363px;
+}
+
+#u726-8
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u747
+{
+	z-index: 2;
+	width: 1529px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u724-12
+{
+	z-index: 4;
+	width: 600px;
+	min-height: 204px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 537px;
+	left: 505px;
+}
+
+#u724-3
+{
+	font-size: 24px;
+	line-height: 29px;
+}
+
+#u724-4,#u724-6,#u724-8,#u724-10
+{
+	font-size: 20px;
+	line-height: 24px;
+}
+
+#u756
+{
+	z-index: 31;
+	width: 1021px;
+	background-color: transparent;
+	left: -38px;
+	margin-top: 90px;
+	position: relative;
+}
+
+#u756_clip
+{
+	overflow: hidden;
+	width: 1021px;
+	height: 532px;
+}
+
+#u756_img
+{
+	margin: -49px -37px -30px -28px;
+}
+
+#pu771
+{
+	width: 0.01px;
+	margin-left: -14px;
+	margin-top: 14px;
+}
+
+#u771
+{
+	z-index: 33;
+	width: 912px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 441px;
+	left: 31px;
+}
+
+#u776
+{
+	z-index: 35;
+	width: 974px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u781
+{
+	z-index: 37;
+	width: 1019px;
+	background-color: transparent;
+	left: -37px;
+	margin-top: 182px;
+	position: relative;
+}
+
+#u791
+{
+	z-index: 39;
+	width: 845px;
+	height: 305px;
+	background: transparent url("../images/u791-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255,255,255,0)),color-stop(42%, #FFFFFF));
+	background: -webkit-linear-gradient(top,rgba(255,255,255,0) ,#FFFFFF 42%);
+	background: linear-gradient(to bottom,rgba(255,255,255,0) ,#FFFFFF 42%);
+	margin-left: 48px;
+	top: -294px;
+	margin-bottom: -294px;
+	position: relative;
+}
+
+#pu731
+{
+	width: 0.01px;
+	margin-left: 356px;
+	margin-top: 76px;
+}
+
+#u731
+{
+	z-index: 29;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u730-4
+{
+	z-index: 25;
+	width: 171px;
+	min-height: 34px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 38px;
+}
+
+#u730-4:hover
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 34px;
+	width: 171px;
+	margin: 8px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 128px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
